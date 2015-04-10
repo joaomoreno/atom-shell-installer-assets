@@ -1,4 +1,0 @@
-spec
-*.coffee
-appveyor.yml
-.npmignore

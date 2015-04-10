@@ -1,31 +1,10 @@
 {
-  "name": "grunt-atom-shell-installer",
-  "version": "0.29.0",
-  "description": "Grunt task to generate Windows installers for Atom Shell apps",
-  "main": "./tasks/index.js",
+  "name": "atom-shell-installer-assets",
+  "version": "0.1.0",
+  "description": "Assets to generate Windows installers for Atom Shell apps",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/grunt-atom-shell-installer.git"
-  },
-  "scripts": {
-    "prepublish": "grunt clean lint coffee",
-    "test": "grunt test"
-  },
-  "dependencies": {
-    "temp": "^0.8.1",
-    "underscore": "^1.7.0",
-    "asar": "~0.2.1"
-  },
-  "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "grunt-coffeelint": "0.0.13",
-    "grunt-contrib-coffee": "^0.11.1",
-    "grunt-shell": "^1.1.1",
-    "jasmine-focused": "^1.0.5"
-  },
-  "peerDependencies": {
-    "grunt": "~0.4.0"
+    "url": "https://github.com/joaomoreno/atom-shell-installer-assets.git"
   }
 }
