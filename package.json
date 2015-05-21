@@ -1,6 +1,6 @@
 {
   "name": "atom-shell-installer-assets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Assets to generate Windows installers for Atom Shell apps",
   "license": "MIT",
   "repository": {
